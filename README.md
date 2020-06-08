@@ -1,4 +1,4 @@
-# WWCode-SV Interview Prep Series
+# WWCode-SV Whiteboarding Series
 
 ```
 Current Session:
