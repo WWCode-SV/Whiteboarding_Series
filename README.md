@@ -15,6 +15,10 @@ Week 4 (7/01 Wednesday): Stacks and Queues
 
 Sign Up:
 https://www.meetup.com/Women-Who-Code-Silicon-Valley
+
+Online Whiteboard:
+http://collabedit.com/ 
+Collabedit is online tool we will be using for this session.  Please be comfortable using this.
 ```
 
 WHO is it for?
