@@ -1,4 +1,4 @@
-# FAQ: WWCode-SV Interview Prep Series
+# WWCode-SV Interview Prep Series
 
 
 WHO is it for?
