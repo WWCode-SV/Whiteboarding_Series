@@ -1,5 +1,21 @@
 # WWCode-SV Interview Prep Series
 
+```
+Current Session:
+
+Dates: 6/10/2020, 6/17/2020, 6/24/2020, 7/1/2020
+Location: Virtual Zoom
+Time: 6:30PM to 8:30PM PST
+
+Schedule:
+Week 1 (6/10 Wednesday): Arrays/Lists/Strings
+Week 2 (6/17 Wednesday): Recursion
+Week 3 (6/24 Wednesday): Linked Lists
+Week 4 (7/01 Wednesday): Stacks and Queues
+
+Sign Up:
+https://www.meetup.com/Women-Who-Code-Silicon-Valley
+```
 
 WHO is it for?
 * Individuals who identify as women and interested in technical interview preparation. 
