@@ -6,7 +6,21 @@
 * Short feedback - (common mistakes, patterns you have seen during the sessions)
 * FAQ - “Do we share problems list?” - we don’t, we are reusing the problems. Suggest to explore websites like https://open.kattis.com/,  https://leetcode.com/ , https://www.interviewbit.com/, https://www.hackerrank.com/ 
 
-| Group | Mentor         | # Mentee  | 7:15-7:40 + 5min | 7:45-8:10 + 5min | 7:45-8:10 + 5min |
-|:------| :------------- | :-------- | :--------------: | ---------------: | ---------------: |
-|       |                |           |                  |                  |                  |
-|       |                |           |                  |                  |                  |
+| Group  | Mentor         | # Mentee  | 7:15-7:40 + 5min | 7:45-8:10 + 5min | 7:45-8:10 + 5min |
+|:------ | :------------- | :-------- | :--------------: | ---------------: | ---------------: |
+| **A1** |                |           |                  |                  |                  |
+| **A2** |                |           |                  |                  |                  |
+| **A3** |                |           |                  |                  |                  |
+| **A4** |                |           |                  |                  |                  |
+| **A5** |                |           |                  |                  |                  |
+| **A6** |                |           |                  |                  |                  |
+| **I1** |                |           |                  |                  |                  |
+| **I2** |                |           |                  |                  |                  |
+| **I3** |                |           |                  |                  |                  |
+| **I4** |                |           |                  |                  |                  |
+| **I5** |                |           |                  |                  |                  |
+| **I6** |                |           |                  |                  |                  |
+| **I7** |                |           |                  |                  |                  |
+| **I8** |                |           |                  |                  |                  |
+| **B1** |                |           |                  |                  |                  |
+| **B2** |                |           |                  |                  |                  |
