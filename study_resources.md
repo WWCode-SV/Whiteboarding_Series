@@ -1,12 +1,19 @@
 General Practice
+* www.leetcode.com
 * https://www.hackerrank.com/domains/algorithms
 * http://www.crazyforcode.com
+* www.careercup.com - problem sets, interview videos. Excellent
+* www.hackerrank.com - interactive coding competition. Very very good!
+* www.geeksforgeeks.org - interview problems, solutions
+* www.codingbat.com - interactive java problems.
+* www.codeeval.com - like hackerrank except linked to companies
+* www.codewars.com - javascript and ruby interactive problems.
+* www.projecteuler.net - math and coding problems
 
 
-Python
-* https://realpython.com/
-* https://pybit.es/pages/courses.html
-* Recursion
+Data Structures and Algorithms
+
+Recursion
 * https://medium.com/code-zen/recursion-demystified-24867f045c62
 * https://www.cs.cornell.edu/courses/cs2110/2014fa/L07-Recursion/recursion_practice.pdf
 * http://www1.udel.edu/CIS/181/pconrad/05S/examples/recursion/recursion.problems
@@ -18,28 +25,21 @@ Python
 * http://www.crazyforcode.com/recursion/
 
 
+Videos Tutorials
+* Youtube - search for Tim Roughgarden - series of lectures
+* Youtube - search for Tushar Roy - series of lectures
 
 
-Mock Interviews
+Mock Interview Resources
 * www.pramp.com - practice mock interviews for free.
 
 
-Web
-* www.careercup.com - problem sets, interview videos. Excellent
-* www.hackerrank.com - interactive coding competition. Very very good!
-* www.geeksforgeeks.org - interview problems, solutions
-* www.codingbat.com - interactive java problems.
-* www.leetcode.com
-* www.codeeval.com - like hackerrank except linked to companies
-* www.codewars.com - javascript and ruby interactive problems.
-* www.projecteuler.net - math and coding problems
+Language Specific
 
+Python
+* https://realpython.com/
+* https://pybit.es/pages/courses.html
 
-
-
-Videos
-* Youtube - search for Tim Roughgarden - series of lectures
-* Youtube - search for Tushar Roy - series of lectures
 
 
 Books
